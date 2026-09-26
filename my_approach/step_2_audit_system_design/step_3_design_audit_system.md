@@ -22,7 +22,7 @@ You are designing an auditable invoice-checking system for **the civil works con
 
 Write **one design document in clear Arabic**, keeping field names, item codes, clause numbers, and formulas in their original notation:
 
-`C:\Users\HP\Desktop\INS2\my_approach\step_3_audit_system_design\civilwork_audit_architecture.md`
+`C:\Users\HP\Desktop\INS2\my_approach\step_2_audit_system_design\civilwork_audit_architecture.md`
 
 ## Study the evidence before designing
 
