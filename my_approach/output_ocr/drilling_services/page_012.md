@@ -1,0 +1,5 @@
+DDS-2025-118 | Directional Drilling Services
+
+All invoices are stated and paid in USD.
+
+Page 12
