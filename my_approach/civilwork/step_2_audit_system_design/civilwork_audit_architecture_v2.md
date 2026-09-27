@@ -10,9 +10,9 @@
 
 | المصدر | الملف |
 |---|---|
-| نسخ العقد (43 صفحة) | `my_approach/output_step_1/civilwork/civilwork_contract_combined.md` |
+| نسخ العقد (43 صفحة) | `my_approach/output_ocr/civilwork/civilwork_contract_combined.md` |
 | العقد الممسوح ضوئياً | `invoice-auditing-level-2/civilwork/contract/CW-2025-0417-CIV.pdf` (فُحصت الصفحات 26 و27 و32 و38 مباشرة من الصورة لتأكيد النصوص المؤثرة على القواعد) |
-| تقريرا المراجعة والتحقق | `output_step_1/civilwork/transcription_review.md` و `step_1_ocr_extractor/step_2_validation_report.md` (ملاحظة: التقرير الثاني نُقل من المسار المذكور في التكليف إلى مجلد `step_1_ocr_extractor`) |
+| تقريرا المراجعة والتحقق | `output_ocr/civilwork/transcription_review.md` و `step_1_ocr_extractor/step_2_validation_report.md` (ملاحظة: التقرير الثاني نُقل من المسار المذكور في التكليف إلى مجلد `step_1_ocr_extractor`) |
 | بيانات الفواتير | `civilwork/invoices/applications.csv` (900 صف) و `application_lines.csv` (7,746 صف) |
 | سجلات الموقع | `civilwork/records/` (2,169 ملف نصي) |
 | الإرشادات والتعليمات | `civilwork/guidelines/INVOICE_AUDIT_GUIDELINES.md` و `README.md` |

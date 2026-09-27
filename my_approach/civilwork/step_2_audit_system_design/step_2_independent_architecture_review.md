@@ -9,8 +9,8 @@ Design to review:
 Primary evidence:
 
 - Original scanned contract: `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\contract\CW-2025-0417-CIV.pdf`
-- Page-by-page transcription: `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\page_001.md` through `page_043.md`
-- Combined transcription: `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\civilwork_contract_combined.md`
+- Page-by-page transcription: `C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\page_001.md` through `page_043.md`
+- Combined transcription: `C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\civilwork_contract_combined.md`
 - Payment applications: `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\invoices\applications.csv`
 - Application lines: `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\invoices\application_lines.csv`
 - Site records: `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\records\`

@@ -15,7 +15,7 @@ python -m unittest discover -s my_approach/civilwork/step_3/tests       # 89 tes
 ```
 
 The audit reads only the raw inputs: `invoice-auditing-level-2/civilwork/` and `submission_template.csv`.
-The contract-transcription tests also read `my_approach/output_step_1/civilwork/page_*.md`.
+The contract-transcription tests also read `my_approach/output_ocr/civilwork/page_*.md`.
 A full run takes about 9 s. Output is deterministic: two runs give byte-identical files, and a test checks this.
 
 | Output (`output/`) | Content |
@@ -121,6 +121,6 @@ Documented examples reproduce exactly:
 
 ## What the full 2,806-row submission still needs
 
-- **The drilling-services contract (1,906 invoices) has not been started.** Its contract `DDS-2025-118.pdf` still needs transcribing: `my_approach/output_step_1/drilling_services/` is empty. It then needs its own architecture and implementation, ending in a drilling part in the same format. After that, run `merge_submission.py`.
+- **The drilling-services contract (1,906 invoices) has not been started.** Its contract `DDS-2025-118.pdf` still needs transcribing: `my_approach/output_ocr/drilling_services/` is empty. It then needs its own architecture and implementation, ending in a drilling part in the same format. After that, run `merge_submission.py`.
 - **The challenge write-ups are still to do:** the short report with error analysis by failure type, the decision log, and a top-level README. The decision-log material for civil works is Part D of the architecture and the list above.
 - **Confidence values are not calibrated**, because there are no labels. The way the grader encodes `expected_total_cents` for the 31A, 45A and procedural rows is unknown (architecture D3).

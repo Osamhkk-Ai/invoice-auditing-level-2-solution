@@ -1,7 +1,7 @@
 # Step 2 — Validation of the civil contract transcription
 
 **Source PDF:** `invoice-auditing-level-2/civilwork/contract/CW-2025-0417-CIV.pdf`
-**Transcription:** `my_approach/output_step_1/civilwork/page_001.md` to `page_043.md`
+**Transcription:** `my_approach/output_ocr/civilwork/page_001.md` to `page_043.md`
 **Review date:** 2026-09-26
 **Reviewer role:** independent proofreader, comparing the page images against the Markdown files directly. The existing `transcription_review.md` was not used as evidence.
 

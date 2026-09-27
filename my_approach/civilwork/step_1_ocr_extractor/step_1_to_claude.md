@@ -6,7 +6,7 @@ You are transcribing a scanned, image-only contract. Read **every page** of this
 
 Write the transcription as Markdown files in this output directory:
 
-`C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\`
+`C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\`
 
 Create one file per PDF page, named `page_001.md`, `page_002.md`, and so on through the final page. The filename number must match the PDF page number, starting at 1. Process the full PDF, including schedules, supplements, amendments, tables, signatures, headers, and footers. The existing `page_001.md` is a draft to verify against page 1; do not simply copy it without checking the image.
 

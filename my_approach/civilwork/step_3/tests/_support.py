@@ -19,7 +19,7 @@ from civilwork_audit.pipeline import run_audit  # noqa: E402
 from civilwork_audit.records import load_records  # noqa: E402
 
 REPO = loader.REPO_ROOT
-TRANSCRIPTION = os.path.join(REPO, "my_approach", "output_step_1", "civilwork")
+TRANSCRIPTION = os.path.join(REPO, "my_approach", "output_ocr", "civilwork")
 D = Decimal
 
 

@@ -5,11 +5,11 @@ You are designing an auditable invoice-checking system for **the civil works con
 ## Inputs to read
 
 1. Complete contract transcription, in page order:
-   `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\civilwork_contract_combined.md`
+   `C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\civilwork_contract_combined.md`
 2. Source scanned contract, to inspect whenever wording, a rate, a date, or a table relationship matters:
    `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\contract\CW-2025-0417-CIV.pdf`
 3. Transcription review and validation reports (use as context, not as substitutes for the contract):
-   `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\transcription_review.md`
+   `C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\transcription_review.md`
    `C:\Users\HP\Desktop\INS2\my_approach\civilwork\step_1_ocr_extractor\step_2_validation_report.md`
 4. Civil works invoice data:
    `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\invoices\applications.csv`

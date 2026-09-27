@@ -8,11 +8,11 @@ Source PDF:
 
 Transcription files:
 
-`C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\page_001.md` through `page_043.md`
+`C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\page_001.md` through `page_043.md`
 
 Write your findings to this new report file:
 
-`C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\step_2_validation_report.md`
+`C:\Users\HP\Desktop\INS2\my_approach\output_ocr\civilwork\step_2_validation_report.md`
 
 ## Review method
 
