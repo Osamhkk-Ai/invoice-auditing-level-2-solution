@@ -1,4 +1,4 @@
-# Step 3 — Design the civil works audit system
+# Step 1 — Design the civil works audit system
 
 You are designing an auditable invoice-checking system for **the civil works contract only**. Do not work on the directional drilling contract. First study the actual contract and data; then write a clear architecture from the high-level workflow down to the detailed checks. This step is **design and analysis only**: do not implement the auditor or produce `submission.csv` yet.
 
@@ -10,7 +10,7 @@ You are designing an auditable invoice-checking system for **the civil works con
    `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\contract\CW-2025-0417-CIV.pdf`
 3. Transcription review and validation reports (use as context, not as substitutes for the contract):
    `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\transcription_review.md`
-   `C:\Users\HP\Desktop\INS2\my_approach\output_step_1\civilwork\step_2_validation_report.md`
+   `C:\Users\HP\Desktop\INS2\my_approach\civilwork\step_1_ocr_extractor\step_2_validation_report.md`
 4. Civil works invoice data:
    `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\invoices\applications.csv`
    `C:\Users\HP\Desktop\INS2\invoice-auditing-level-2\civilwork\invoices\application_lines.csv`
@@ -22,7 +22,7 @@ You are designing an auditable invoice-checking system for **the civil works con
 
 Write **one design document in clear Arabic**, keeping field names, item codes, clause numbers, and formulas in their original notation:
 
-`C:\Users\HP\Desktop\INS2\my_approach\step_2_audit_system_design\civilwork_audit_architecture.md`
+`C:\Users\HP\Desktop\INS2\my_approach\civilwork\step_2_audit_system_design\civilwork_audit_architecture.md`
 
 ## Study the evidence before designing
 

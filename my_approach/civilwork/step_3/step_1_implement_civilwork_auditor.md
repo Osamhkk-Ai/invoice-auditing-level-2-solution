@@ -4,7 +4,7 @@ You wrote the final civil-works architecture and verification package in the pre
 
 ## Goal
 
-Build a maintainable, runnable civil-works invoice auditor from `civilwork_audit_architecture_final.md`. Put **all production Python code under `my_approach/step_3/src/`**. Use the existing `civilwork_verify.py` as a checked prototype, but refactor or port its rules into the Step 3 implementation rather than treating its existing output as the final deliverable.
+Build a maintainable, runnable civil-works invoice auditor from `civilwork_audit_architecture_final.md`. Put **all production Python code under `my_approach/civilwork/step_3/src/`**. Use the existing `civilwork_verify.py` as a checked prototype, but refactor or port its rules into the Step 3 implementation rather than treating its existing output as the final deliverable.
 
 Generate the civil-works portion of the submission from source data: **900 rows**, one per civil-works application, with the exact columns, IDs, integer-cent amounts, and conventions required by `submission_template.csv` and the repository README. Write this as a clearly named civil-works submission artifact in Step 3. The challenge's final `submission.csv` needs **2,806 rows across both contracts**; do not fill the 1,906 drilling rows with guesses or present the civil-works artifact as the complete challenge submission. Make it straightforward to merge the drilling results later.
 

@@ -1,0 +1,24 @@
+reading,matched,lost,gained,gained_lines
+without 27A ground freeze,6868,837,2,PA-00503-03;PA-00768-04
+without Sch 4 Pt 3 bands,6848,859,4,PA-00312-05;PA-00374-02;PA-00496-02;PA-00871-04
+bands not reset at Contract Year 2 (3A),7435,268,0,
+without 26A USD conversion,7316,387,0,
+without 29A indexation,7429,274,0,
+without S2/A2 discount,7474,230,1,PA-00268-03
+without rest-day uplift,7566,137,0,
+night uplift also in Z3/Z4 (no 27A cap),7620,84,1,PA-00668-02
+without 31A (reprice pre-issue applications),7615,88,0,
+31A boundary 'on or before' issue day,7701,2,0,
+freeze from 27 Sep 2025,7701,2,0,
+freeze from 29 Sep 2025,7701,2,0,
+band order by application date,7631,72,0,
+band tie-break by reverse application no.,7695,8,0,
+final rounding half-even (not Cl 28 half-up),7587,116,0,
+conversion rounding half-up (not 26A/29A half-even),7685,18,0,
+without Supplement No. 1 rates,7423,281,1,PA-00297-07
+without Amendment No. 1 rates,7591,112,0,
+without Supplement No. 2 rate,7647,56,0,
+without Amendment No. 2 monthly E.54.010,7680,23,0,
+without zone factors,2563,5140,0,
+without ground factors,6990,713,0,
+without night uplift,7622,81,0,

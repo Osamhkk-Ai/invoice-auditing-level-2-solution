@@ -4,7 +4,7 @@ You are a **second, independent reviewer** of an audit-system design. Do not ass
 
 Design to review:
 
-`C:\Users\HP\Desktop\INS2\my_approach\step_2_audit_system_design\civilwork_audit_architecture.md`
+`C:\Users\HP\Desktop\INS2\my_approach\civilwork\step_2_audit_system_design\civilwork_audit_architecture.md`
 
 Primary evidence:
 
@@ -19,7 +19,7 @@ Primary evidence:
 
 Write your review in clear Arabic, keeping code, field names, formulas, and clause numbers in their original notation, to:
 
-`C:\Users\HP\Desktop\INS2\my_approach\step_2_audit_system_design\civilwork_audit_architecture_review.md`
+`C:\Users\HP\Desktop\INS2\my_approach\civilwork\step_2_audit_system_design\civilwork_audit_architecture_review.md`
 
 ## Required review process
 
