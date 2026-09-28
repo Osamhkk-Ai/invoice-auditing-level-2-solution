@@ -1,0 +1,54 @@
+{
+ "lines_compared": 91181,
+ "invoices_compared": 1906,
+ "step2": {
+  "lines_exact": 91047,
+  "flagged": 120,
+  "a3": {
+   "MDS-01625": "309965.52"
+  },
+  "line_reasons": {
+   "already_billed": 3,
+   "amount_ne_qty_x_rate": 3,
+   "not_supported_by_report": 14,
+   "outside_invoice_period": 3,
+   "outside_term": 3,
+   "part_C_absent": 1,
+   "part_D_absent": 2,
+   "qty_above_report": 21,
+   "rate_differs": 51,
+   "report_unsigned": 33
+  }
+ },
+ "production": {
+  "lines_exact": 91047,
+  "flagged": 120,
+  "a3": {
+   "MDS-01625": "309965.52"
+  },
+  "line_reasons": {
+   "already_billed": 3,
+   "amount_ne_qty_x_rate": 3,
+   "not_supported_by_report": 14,
+   "outside_invoice_period": 3,
+   "outside_term": 3,
+   "part_C_absent": 1,
+   "part_D_absent": 2,
+   "qty_above_report": 21,
+   "rate_differs": 51,
+   "report_unsigned": 33
+  }
+ },
+ "a3_identical": true,
+ "differences": {
+  "line_qty": 0,
+  "line_rate": 0,
+  "line_amount": 0,
+  "line_reasons": 0,
+  "invoice_total": 0,
+  "invoice_flag": 0,
+  "invoice_reasons": 0
+ },
+ "difference_examples": {},
+ "identical": true
+}

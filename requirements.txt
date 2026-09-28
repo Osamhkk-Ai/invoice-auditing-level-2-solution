@@ -1,0 +1,2 @@
+# No third-party dependencies. Both auditors, their tests and the merge use the Python standard library only.
+# Tested with CPython 3.11.9 (any Python >= 3.10 works).
