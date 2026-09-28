@@ -1,5 +1,21 @@
 # Invoice audit, Level 2: civil works (CW-2025-0417-CIV) and directional drilling (DDS-2025-118)
 
+## Video walkthroughs
+
+### Civil works audit
+
+https://github.com/user-attachments/assets/071ac9ec-b397-4b6d-9af3-4ea7bc7f6710
+
+[Download civil works MP4](videos/invoice_audit_brief_voiced.mp4)
+
+### Drilling services audit
+
+https://github.com/user-attachments/assets/315e50ab-caaf-4690-b1f0-71973270de58
+
+[Download drilling services MP4](videos/drilling_invoice_audit_explainer_dark.mp4)
+
+These videos are teaching aids; the CSV, report, code, and decision log are the submission artifacts.
+
 This repository audits every invoice under both contracts. `output/submission.csv` has the template's 2,806 rows in template order, with money in integer minor units. A byte-identical copy is also kept at the repository root as `submission.csv`.
 
 | | Invoices | Flagged | Share | Lines reconciled exactly |
@@ -60,22 +76,6 @@ Each `step_3/README.md` has the code map, the test list, and the comparison with
 - [drilling](my_approach/drilling_services/step_3/README.md)
 
 The audit trails are in each `step_3/output/`. For each contract there is one row per line and one per invoice, giving the evidence, the rate build-up, the clause relied on and the reason. The full drilling line trail (24 MB) is regenerated rather than committed; its 134 exception lines are committed.
-
-## Video walkthroughs
-
-### Civil works audit
-
-https://github.com/user-attachments/assets/071ac9ec-b397-4b6d-9af3-4ea7bc7f6710
-
-[Download civil works MP4](videos/invoice_audit_brief_voiced.mp4)
-
-### Drilling services audit
-
-https://github.com/user-attachments/assets/315e50ab-caaf-4690-b1f0-71973270de58
-
-[Download drilling services MP4](videos/drilling_invoice_audit_explainer_dark.mp4)
-
-These videos are teaching aids; the CSV, report, code, and decision log are the submission artifacts.
 
 ## Method in brief
 
