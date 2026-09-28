@@ -63,8 +63,17 @@ The audit trails are in each `step_3/output/`. For each contract there is one ro
 
 ## Video walkthroughs
 
-- [Civil works audit walkthrough](videos/invoice_audit_brief_voiced.mp4)
-- [Drilling services audit walkthrough](videos/drilling_invoice_audit_explainer_dark.mp4)
+### Civil works audit
+
+https://github.com/user-attachments/assets/071ac9ec-b397-4b6d-9af3-4ea7bc7f6710
+
+[Download civil works MP4](videos/invoice_audit_brief_voiced.mp4)
+
+### Drilling services audit
+
+https://github.com/user-attachments/assets/315e50ab-caaf-4690-b1f0-71973270de58
+
+[Download drilling services MP4](videos/drilling_invoice_audit_explainer_dark.mp4)
 
 These videos are teaching aids; the CSV, report, code, and decision log are the submission artifacts.
 
