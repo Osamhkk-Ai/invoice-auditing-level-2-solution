@@ -51,12 +51,8 @@ my_approach/drilling_services/     step_1 transcription prompts · step_2 archit
 generate_output.py                one-command regeneration from the raw inputs
 output/                           civil, drilling, and combined submission CSVs
 submission.csv                     root copy of the merged submission (2,806 rows)
-videos/                            optional visual walkthroughs (to be added)
+videos/                            optional visual walkthroughs
 ```
-
-## Video walkthroughs
-
-The two explanatory videos will be linked here when their files are added under `videos/`: one for the civil-works audit and one for the drilling-services audit. They are teaching aids; the CSV, report, code, and decision log are the submission artifacts.
 
 Each `step_3/README.md` has the code map, the test list, and the comparison with that contract's Step 2 baseline:
 
@@ -64,6 +60,12 @@ Each `step_3/README.md` has the code map, the test list, and the comparison with
 - [drilling](my_approach/drilling_services/step_3/README.md)
 
 The audit trails are in each `step_3/output/`. For each contract there is one row per line and one per invoice, giving the evidence, the rate build-up, the clause relied on and the reason. The full drilling line trail (24 MB) is regenerated rather than committed; its 134 exception lines are committed.
+
+## Video walkthroughs
+
+- [Civil works audit walkthrough](videos/invoice_audit_brief_voiced.mp4)
+
+The drilling-services video can be linked here when it is available. These videos are teaching aids; the CSV, report, code, and decision log are the submission artifacts.
 
 ## Method in brief
 
